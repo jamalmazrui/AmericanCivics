@@ -16,7 +16,7 @@ This project is a downloadable collection of open publications facilitating know
  
 Each of the 44 .pdf or .epub publications listed below may be downloaded or opened individually from this web page:
 
-<http://GitHub.com/JamalMazrui/AmericanPhysics>
+<http://GitHub.com/JamalMazrui/AmericanCivics>
 
 - [A Citizen's Guide to the Federal Budget.pdf](http://GitHub.com/JamalMazrui/AmericanCivics/raw/master/A%20Citizen's%20Guide%20to%20the%20Federal%20Budget.pdf)
 - [A Guide to Major Congressional and Presidential Awards.pdf](http://GitHub.com/JamalMazrui/AmericanCivics/raw/master/A%20Guide%20to%20Major%20Congressional%20and%20Presidential%20Awards.pdf)
@@ -66,6 +66,6 @@ Each of the 44 .pdf or .epub publications listed below may be downloaded or open
 
 In addition, the whole collection may be downloaded in the following zip archive:
 
-<http://GitHub.com/JamalMazrui/AmericanPhysics/archive/master.zip>
+<http://GitHub.com/JamalMazrui/AmericanCivics/archive/master.zip>
 
 For greater accessibility, HTML conversions of the PDF or EPUB files are also included, produced by automated means.
